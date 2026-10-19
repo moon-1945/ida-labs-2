@@ -1,0 +1,21 @@
+{
+  "latitude": 50.423317,
+  "longitude": 30.491209,
+  "generationtime_ms": 0.04971027374267578,
+  "utc_offset_seconds": 10800,
+  "timezone": "Europe/Kyiv",
+  "timezone_abbreviation": "GMT+3",
+  "elevation": 169.0,
+  "current_units": {
+    "time": "iso8601",
+    "interval": "seconds",
+    "temperature_2m": "°C",
+    "wind_speed_10m": "km/h"
+  },
+  "current": {
+    "time": "2026-10-12T21:45",
+    "interval": 900,
+    "temperature_2m": 11.0,
+    "wind_speed_10m": 2.7
+  }
+}
